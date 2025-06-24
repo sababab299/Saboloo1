@@ -1645,7 +1645,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 5
-  _length: 10
 --- !u!61 &1929843690
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2042,6 +2041,6 @@ SceneRoots:
   - {fileID: 1751124255}
   - {fileID: 679398891}
   - {fileID: 338757568}
-  - {fileID: 784402194}
   - {fileID: 1929843692}
+  - {fileID: 784402194}
   - {fileID: 1234180266}
