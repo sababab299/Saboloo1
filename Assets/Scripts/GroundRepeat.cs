@@ -5,7 +5,6 @@ public class GroundRepeat : MonoBehaviour
 {
 
     [SerializeField] private float _speed = 1f;
-    [SerializeField] private float _length = 7f;
     private SpriteRenderer _spriteRenderer;
     private Vector2 startSize;
 
